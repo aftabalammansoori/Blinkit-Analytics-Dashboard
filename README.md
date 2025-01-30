@@ -7,45 +7,45 @@ To conduct a comprehensive analysis of Blinkit's sales performance, costumer sat
 ---
 
 ## KPI's Requirements
-**1. Total Sales:** The overall revenue generated from all items sold.
-**2. Average Sales:** The average revenue per sale.
-**3. Number of Items:** The total count of different items sold.
-**4. Average Rating:** The average costumer rating for items sold.
+-**Total Sales:** The overall revenue generated from all items sold.
+-**Average Sales:** The average revenue per sale.
+-**Number of Items:** The total count of different items sold.
+-**Average Rating:** The average costumer rating for items sold.
 
 ---
 
 ## Chart's Requirements 
 
- **1. Total Sales by Fat Content:**
-     **Objective:** Analyse the impact of fat content on total sales.
-     **Additional KPI Metrics:** Assess how other KPIs(Average Sales, Number of Items, Average Rating) vary with fat content.
-     **Chart Type:** Donut Chart.
+**1. Total Sales by Fat Content:**
+-**Objective:** Analyse the impact of fat content on total sales.
+-**Additional KPI Metrics:** Assess how other KPIs(Average Sales, Number of Items, Average Rating) vary with fat content.
+-**Chart Type:** Donut Chart.
    
- **2. Total Sales by Item Type:**
-     **Objective:** Identify the performance of different items types in terms of total sales.
-     **Additional KPI Metrics:** Asses how other KPI's vary with fat content.
-     **Chart Type:** Bar Chart.
+**2. Total Sales by Item Type:**
+-**Objective:** Identify the performance of different items types in terms of total sales.
+-**Additional KPI Metrics:** Asses how other KPI's vary with fat content.
+-**Chart Type:** Bar Chart.
    
- **3. Fat Content by Outlet for total Sales:**
-     **Objective:** Compare total sales across different outlets segmented by fat content.
-     **Additional KPI Metrics:** Assess how other KPI's vary with fat content.
-     **Chart Type:** Stacked Column Chart.
+**3. Fat Content by Outlet for total Sales:**
+-**Objective:** Compare total sales across different outlets segmented by fat content.
+-**Additional KPI Metrics:** Assess how other KPI's vary with fat content.
+-**Chart Type:** Stacked Column Chart.
 
- **4. Total Sales by Outlet Establishment:**
-     **Objective:** Evaluate how the age or type of outlet establishment influences total sales.
-     **Chart Type:** Donut/Pie Chart.
+**4. Total Sales by Outlet Establishment:**
+-**Objective:** Evaluate how the age or type of outlet establishment influences total sales.
+-**Chart Type:** Donut/Pie Chart.
 
- **5. Sales by Outlet Size:**
-     **Objective:** Asses the geographic distribution of sales across different locations.
-     **Chart Type:** Line Chart.
+**5. Sales by Outlet Size:**
+-**Objective:** Asses the geographic distribution of sales across different locations.
+-**Chart Type:** Line Chart.
 
- **6. Sales by Outlet Location:** 
-     **Objective:** Asses the geographic distribution of sales across different locations.
-     **Chart Type:** Funnel
+**6. Sales by Outlet Location:** 
+-**Objective:** Asses the geographic distribution of sales across different locations.
+-**Chart Type:** Funnel
   
- **7. All Metrics by Outlet Type:**
-     **Objective:** Provide a comprehensive views of all key metrics broken down by different outlet types.
-     **Chart Type:** Matrix Card.
+**7. All Metrics by Outlet Type:**
+-**Objective:** Provide a comprehensive views of all key metrics broken down by different outlet types.
+-**Chart Type:** Matrix Card.
 
 ---
 
